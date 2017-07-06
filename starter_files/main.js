@@ -44,7 +44,7 @@ console.log(lessThan(2, 2) === 'Equal to');
 // The below assertion does not work.
 // The function addNumbers needs to be created
 let twoPlusTwo = addNumbers(3, 2);
-function addNumbers (numx,numy){
-  return(numx+numy);
+function addNumbers (numX,numY){
+  return(numX+numY);
 }
 console.log(twoPlusTwo === 4)
